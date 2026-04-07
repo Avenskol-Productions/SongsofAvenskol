@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 70,
+GAME_VERSION_MINOR: 14,
+NAME: "Songs of Avenskol",
+DESC: "Adds various things from the Avenskol setting.",
+AUTHOR: "Avenskol Official",
+INFO: "",

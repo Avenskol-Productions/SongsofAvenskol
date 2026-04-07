@@ -1,0 +1,82 @@
+NAME: "Kalavylian",
+NAMES: "Kalavylians",
+POSSESSIVE: "Kalavylian",
+POSSESSIVES: "Kalavylians",
+PRONOUN_HE: ["they", "they",],
+PRONOUN_HEC: ["They", "They",],
+PRONOUN_HIM: ["them", "them",],
+PRONOUN_HIMC: ["Them", "Them",],
+PRONOUN_HIS: ["their", "their",],
+PRONOUN_HISC: ["Their", "Their",],
+PRONOUN_HIMSELF: ["themselves", "themselves",],
+PRONOUN_HIMSELFC: ["Themselves", "Themselves",],
+DESC: "Kalavylians, wise people with a decent habit of lying in good faith.",
+DESC_LONG:
+"The kalavylians are a good people, born on the vast paths of Dasdarfox. They are usually calm, and will always seek to make a quick profit.",
+HELLO: [
+	"Need a fine trinket?",
+	"Need a fine bauble?",
+	"Equipment for sale!",
+	"Trinkets for sale!",
+	"Baubles for sale!",
+	"Under the hidden eyes of the creators",
+],
+GOODBYE: [
+	"We bid you farewell.",
+	"We'll see you next time!",
+],
+CURSE: [
+	"By Eathyria!",
+	"By the everseer!",
+],
+INSULT: [
+	"fool", 
+	"drarak",
+],
+INSULTING: [
+	"foolish", 
+	"draraki",
+],
+LORD: [
+	"Caravaneer",
+	"Honoured guest",
+],
+CITY: [
+	"depot",
+	"caravan",
+	"caravan depot",
+],
+OTHERS: [
+	"exotics",
+	"others",
+],
+SELVES: [
+	"fellows",
+	"subjects",
+],
+SELF: [
+	"fellows",
+	"subjects",
+],
+CHILDREN: [
+	"children",
+],
+ARMY_NAMES: [
+	"Caravan guard",
+	"Guards of The Caravan",
+	"Caravan watch",
+	"",
+],
+CHALLENGE: "Medium",
+PROS: [
+	"Decent at retaining knowledge",
+	"Decent farmers",
+	"Trade oriented",
+	"Easy to educate",
+	"Born plural",
+],
+CONS: [
+	"vulnerable in conflict",
+	"Practically blind without their psionic abilities",
+	"Easy to please",
+],

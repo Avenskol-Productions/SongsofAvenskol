@@ -19,7 +19,7 @@ HAPPY_SOSO: [
     "Thinks your {RACE_CITY} is a decent place to live and mentioned needing the following:",
 ],
 HAPPY_NO: [
-    "Feels you can do better as a ruler. Quite a bit better to be honest:",
+    "Feels you can do better as a viseeri. Quite a bit better to be honest:",
     "Clearly has some choice words about your {RACE_CITY}, but only said this:",
     "Was close to tears, before mentioning:",    
     "Visibly thought better of insulting you and suggested the following:",    
@@ -30,13 +30,13 @@ NOTHING: [
 FUNNY: [
     "Stop picking your nose while playing. It's not befitting a lord.",
     "Pull up your pants, please.",
-    "Perhaps Milord could appoint a noble to oversee the royal wardrobe. Fashion is a thing you know. Respectfully.",
+    "Perhaps Viseeri could appoint a noble to oversee the royal wardrobe. Fashion is a thing you know. Respectfully.",
 ],
 
 STATS_MORE: {
 	STORED_GEM: [
-		"Inflation is a terrible thing, you should invest the cities' wealth into gems that will not lose value as quickly.",
-		"Milord, all of the best cities have vaults full of gems. It's a sign of prosperity and should the worst happen, gems are a lot easier to carry than sacks of coins.",
+		"Inflation is a terrible thing, you should invest the caravan's wealth into gems that will not lose value as quickly.",
+		"Viseeri, all of the best caravans have vaults full of gems. It's a sign of prosperity and should the worst happen, gems are a lot easier to carry than sacks of coins.",
 	],
 },
 

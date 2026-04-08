@@ -19,7 +19,7 @@ HELLO: [
 	"Equipment for sale!",
 	"Trinkets for sale!",
 	"Baubles for sale!",
-	"Under the hidden eyes of the creators",
+	"Under the hidden eyes of the creators, let the everseer guide us all on our travels.",
 ],
 GOODBYE: [
 	"We bid you farewell.",

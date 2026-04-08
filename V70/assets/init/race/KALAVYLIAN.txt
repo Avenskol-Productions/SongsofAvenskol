@@ -65,7 +65,7 @@ PREFERRED: {
 		TILAPI: 0.75,
 	},
 	OTHER_RACES_REVERSE: {
-		*: 1,
+		*: 0,
 	},
 	BUILDING_OVERRIDE: {
 		CIVIC_L_STANDS: 1.5,

@@ -1,0 +1,25 @@
+INFO: {
+	NAME: "Shrine to Eathyria",
+	NAMES: "Shrine to Eathyria",
+	DESC: "A place for a quick worship of the deity Eathyria.",
+},
+
+STATS: [
+	{
+		NAME: "Worshippers",
+		DESC: "The capacity of worshippers the will be available.",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Shrine to Eathyria",
+		DESC: "",
+	},
+],
+
+SERVICE: {
+	NAME: "Shrine to Eathyria",
+	NAMES: "Shrine to Eathyria",
+	VERB: "Worshipping",
+},

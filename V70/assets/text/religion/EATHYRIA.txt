@@ -1,0 +1,9 @@
+NAME: "Eathyrian",
+DEITY: "Eathyria",
+DESC: "Followers of Eathyria, gifted with their divine vision. Promotes knowledge.",
+
+WIKI: {
+	NAME: "Eathyrian",
+	CATEGORY: "Religion",
+	TEXT: "Eathyria is the diety of knowledge, forsight, and light. They are renowned for gifting their vision to seers throughout the Avenskol system.",
+},
